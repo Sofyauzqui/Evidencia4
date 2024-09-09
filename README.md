@@ -9,3 +9,9 @@ Programación / Base de Datos
 - _database_query.py_: Sentencias DML para consultas de datos desde Python
 - _VideoGameConsole.sql_: Base de datos resultante
 - _doc/Evidencia 4.pdf_: Enunciado
+
+Enlaces
+- Github:
+https://github.com/Sofyauzqui/Evidencia4
+- Youtube:
+https://youtu.be/2_kufFsGkf8
